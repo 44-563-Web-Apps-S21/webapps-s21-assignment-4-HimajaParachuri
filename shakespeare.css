@@ -1,0 +1,27 @@
+.speech{
+    font-family: Times, serif;
+    font-size: 18px;
+    color:black;
+}
+.name{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color:black;
+}
+.stage-direction{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+    color:lightpink;
+    background-color: limegreen;
+}
+.stage-direction:hover{
+    background-color: limegreen;
+    color:lightseagreen;
+}
+.VALENTINE{
+    color:yellow;
+}
+.PROTEUS{
+    color:blue;
+}
+
