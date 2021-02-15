@@ -11,11 +11,11 @@
 .stage-direction{
     font-family:'Times New Roman', Times, serif;
     font-size: 18px;
-    color:lightpink;
-    background-color: limegreen;
+    color:blue;
+    background-color: lightgreen;
 }
 .stage-direction:hover{
-    background-color: limegreen;
+    background-color: lightgreen;
     color:lightseagreen;
 }
 .VALENTINE{
@@ -42,6 +42,24 @@ tr:nth-child(even) {
     text-shadow:5px 5px 5px purple;
     border: black;
     border: groove;   
+}
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+ul.navbar-horizontal li {
+    float:left; 
+    color:rgb(86, 75, 112);
+    background-color:rgb(211, 211, 211);
+    }
+ul.navbar-horizontal a {
+    display:block;
+    padding:8px;
+}
+ul.navbar-horizontal a:hover {
+background-color: rgb(235, 21, 21);
+color:white;
 }
   
 
