@@ -5,7 +5,7 @@
 }
 .name{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 18px;
+    font-size: 12px;
     color:black;
 }
 .stage-direction{
@@ -19,9 +19,13 @@
     color:lightseagreen;
 }
 .VALENTINE{
-    color:yellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color:black;
 }
 .PROTEUS{
-    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color:black;
 }
 
